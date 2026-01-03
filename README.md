@@ -18,7 +18,7 @@ Since this is a custom tool, you will install it as an "Unpacked Extension" in C
 3.  Toggle **Developer mode** in the top right corner.
 4.  Click the **Load unpacked** button.
 5.  Select the folder where you saved these files.
-6.  The extension icon (a puzzle piece or default icon) should appear in your toolbar.
+6.  The extension icon (the SC logo, though a bit misshapen) should appear in your toolbar.
 
 ## Usage
 
@@ -34,7 +34,6 @@ Since this is a custom tool, you will install it as an "Unpacked Extension" in C
 * `manifest.json` - Configuration file required by Chrome.
 * `popup.html` - The user interface for entering dates.
 * `popup.js` - Logic for the popup and initiating the scrape.
-* `content.js` - (Optional/Inline) Logic for parsing the HTML of the Web Reg page.
 
 ## Disclaimer
 
