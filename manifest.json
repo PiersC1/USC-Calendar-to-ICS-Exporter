@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "USC Schedule Exporter",
+  "version": "1.0",
+  "description": "Exports Web Registration schedule to an ICS file.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon" : "logo.png"
+  }
+}
